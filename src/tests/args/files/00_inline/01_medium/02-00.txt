@@ -1,0 +1,5 @@
+A
+foo
+D
+
+A  DATA1     D

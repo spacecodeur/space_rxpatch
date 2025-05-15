@@ -1,0 +1,9 @@
+A
+    B
+        CD
+    F
+G
+
+B
+    CD
+F

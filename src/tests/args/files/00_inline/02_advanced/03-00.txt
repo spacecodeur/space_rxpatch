@@ -1,0 +1,9 @@
+A
+    B
+        CDATA1D
+    F
+G
+
+B
+    CDATA1D
+F

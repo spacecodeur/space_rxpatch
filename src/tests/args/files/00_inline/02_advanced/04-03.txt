@@ -1,0 +1,17 @@
+A
+    B
+        CDATA1D
+    F
+G
+
+B
+    CDATA1D
+F
+
+A
+    A
+        B
+            CDATA2D
+        F
+    G
+G
