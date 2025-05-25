@@ -1,0 +1,14 @@
+[package]
+name = "space_rxpatch"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+clap = "4.5.38"
+file_formats = { path = "crates/file_formats" }
+text_search = { path = "crates/text_search" }
+error = { path = "crates/error" }
+
+[[test]]
+name = "space_rxpatch-test"
+path = "tests/mod.rs"
